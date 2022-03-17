@@ -1,0 +1,2 @@
+iverilog -o not_gate -c run.f
+vvp not_gate
